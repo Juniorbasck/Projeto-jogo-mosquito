@@ -16,4 +16,4 @@
 <li> CSS </li>
 <br>
 
-## Tive também um auxilio de videos da internet para a criação
+## Tive auxilio de videos da internet e amigos desenvolvedores para a criação
